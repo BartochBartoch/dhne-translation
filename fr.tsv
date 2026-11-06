@@ -1,6 +1,6 @@
 location	extra context	en	translation
-src/are_you_sure.lua:14 (+3 others)		Are you sure?	
-src/are_you_sure.lua:15 (+13 others)		yes	
+src/are_you_sure.lua:14 (+3 others)		Are you sure?	Êtes-vous sûr ?
+src/are_you_sure.lua:15 (+13 others)		yes	oui
 src/are_you_sure.lua:17		really?	
 src/board_unlocks.lua:7		chill vibes	
 src/board_unlocks.lua:17		the real game begins	
