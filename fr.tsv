@@ -1,72 +1,72 @@
-location	extra context	en	translation
+location	extra context	en	fr
 src/are_you_sure.lua:14 (+3 others)		Are you sure?	Êtes-vous sûr ?
 src/are_you_sure.lua:15 (+13 others)		yes	oui
-src/are_you_sure.lua:17		really?	
-src/board_unlocks.lua:7		chill vibes	
-src/board_unlocks.lua:17		the real game begins	
-src/board_unlocks.lua:27		something smells fishy	
-src/boards/easy.lua:2		Shallows	
-src/boards/easy.lua:3		Chill Vibes.\nShort run, extra bust limit, capped rewards.	
-src/boards/easy.lua:4		the friendliest pond around	
-src/boards/fish_board.lua:2		The Bay	
-src/boards/fish_board.lua:3		Smells Fishy	
-src/boards/fish_board.lua:4		come for the fish, stay for the fish	
-src/boards/normal.lua:2		Lands Adrift	
-src/boards/normal.lua:3		Real game begins.	
-src/boards/normal.lua:4		you'll never want to leave	
+src/are_you_sure.lua:17		really?	Vraiment ?
+src/board_unlocks.lua:7		chill vibes	à la cool
+src/board_unlocks.lua:17		the real game begins	le vrai jeu commence
+src/board_unlocks.lua:27		something smells fishy	ça sent la mer
+src/boards/easy.lua:2		Shallows	Lagune
+src/boards/easy.lua:3		Chill Vibes.\nShort run, extra bust limit, capped rewards.	À la cool.\nPartie plus courte, droit à l’erreur, récompenses limitées
+src/boards/easy.lua:4		the friendliest pond around	l’étang le plus sympa du coin
+src/boards/fish_board.lua:2		The Bay	La Baie
+src/boards/fish_board.lua:3		Smells Fishy	Ça sent la mer
+src/boards/fish_board.lua:4		come for the fish, stay for the fish	je suis venu pour le poisson, je suis resté pour le poisson
+src/boards/normal.lua:2		Lands Adrift	Terres à la dérive
+src/boards/normal.lua:3		Real game begins.	Le vrai jeu commence
+src/boards/normal.lua:4		you'll never want to leave	vous ne voudrez plus partir
 src/boards/rift.lua:3		Decide how deep you can go.	
-src/boards/rift.lua:4		please mind the gap	
-src/boards/the_end.lua:2		The End	
-src/boards/the_end.lua:3		This is it.	
-src/boards/the_end.lua:4		thank you for visiting	
-src/character_unlocks.lua:10		never born but alive	
-src/character_unlocks.lua:21		tries her best	
+src/boards/rift.lua:4		please mind the gap	attention à l’espace
+src/boards/the_end.lua:2		The End	Fin
+src/boards/the_end.lua:3		This is it.	Ça y est
+src/boards/the_end.lua:4		thank you for visiting	merci d’être passé
+src/character_unlocks.lua:10		never born but alive	jamais né, mais en vie
+src/character_unlocks.lua:21		tries her best	fait de son mieux
 src/character_unlocks.lua:31		likes watching you bust	
-src/character_unlocks.lua:42		just a dude	
-src/character_unlocks.lua:53		gets away with it	
+src/character_unlocks.lua:42		just a dude	juste un gars
+src/character_unlocks.lua:53		gets away with it	s’en tire toujours
 src/character_unlocks.lua:63		god stronger warrior	
-src/character_unlocks.lua:74 (+1 others)		woof	
-src/character_unlocks.lua:84		woof?	
-src/character_unlocks.lua:95		he's so cool	
-src/character_unlocks.lua:105		slimy	
-src/character_unlocks.lua:115		she's doing well for herself	
-src/character_unlocks.lua:120		Plasticine	
-src/character_unlocks.lua:121		like putty in your hands\ncharacter customisation option	
-src/character_unlocks.lua:133		Bets	
-src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward	
+src/character_unlocks.lua:74 (+1 others)		woof	ouaf
+src/character_unlocks.lua:84		woof?	ouaf ?
+src/character_unlocks.lua:95		he's so cool	il est tellement stylé
+src/character_unlocks.lua:105		slimy	gluant
+src/character_unlocks.lua:115		she's doing well for herself	elle se débrouille bien
+src/character_unlocks.lua:120		Plasticine	Plasticine
+src/character_unlocks.lua:121		like putty in your hands\ncharacter customisation option	comme de la pâte à modeler\noptions de personnalisation
+src/character_unlocks.lua:133		Bets	Paris
+src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward	pariez des ¤ pour plus de difficulté et plus de récompenses
 src/character_unlocks.lua:145		Soul Wager	
-src/character_unlocks.lua:146		bet your save file for the ultimate reward	
-src/characters/anais.lua:2		Anais	
+src/character_unlocks.lua:146		bet your save file for the ultimate reward	pariez votre sauvegarde pour la récompense ultime
+src/characters/anais.lua:2		Anais	Anaïs
 src/characters/anais.lua:38		Biblically Accurate	
-src/characters/anais.lua:39		real angels dont have wings	
-src/characters/anais.lua:56	dialogue	Kill what you love	
+src/characters/anais.lua:39		real angels dont have wings	les vrais anges n’ont pas d’ailes
+src/characters/anais.lua:56	dialogue	Kill what you love	Tue ce que tu aimes
 src/characters/business_fish.lua:2		Business Fish	
-src/characters/business_fish.lua:33		Promotion	
-src/characters/business_fish.lua:34		dont let us down	
-src/characters/business_fish.lua:53 (+1 others)	dialogue	You're playing shallows?	
-src/characters/business_fish.lua:54 (+1 others)	dialogue	This ain't it	
+src/characters/business_fish.lua:33		Promotion	Promotion
+src/characters/business_fish.lua:34		dont let us down	ne nous laissez pas tomber
+src/characters/business_fish.lua:53 (+1 others)	dialogue	You're playing shallows?	Tu restes là où tu as pied ?
+src/characters/business_fish.lua:54 (+1 others)	dialogue	This ain't it	Ça va pas le faire
 src/characters/business_fish.lua:55 (+1 others)	dialogue	Take me into deep waters baby.	
 src/characters/business_fish.lua:57	dialogue	Tuff' day in fish business	
-src/characters/cool_fish.lua:2		Cool Fish	
-src/characters/cool_fish.lua:34		Level 2	
-src/characters/cool_fish.lua:35 (+3 others)		level up	
-src/characters/cool_fish.lua:42		Level 3	
-src/characters/cool_fish.lua:43		level up more	
-src/characters/cool_fish.lua:66	dialogue	Oh, this jacket?\nIt was 3000¥	
-src/characters/cool_fish.lua:67	dialogue	It's from Japan yeah	
-src/characters/dog.lua:2		Dog	
-src/characters/dog.lua:34		Fancy Fancy	
-src/characters/god.lua:11	dialogue	unworthy	
-src/characters/god.lua:15	dialogue	fall back	
-src/characters/god.lua:31	dialogue	begone	
-src/characters/god.lua:36 (+1 others)		soul	
-src/characters/god.lua:37		wager your soul	
-src/characters/god.lua:43	dialogue	i hope you are feeling lucky	
-src/characters/god.lua:52 (+2 others)		gold	
-src/characters/god.lua:62		but you have nothing left	
-src/characters/god.lua:64		but you have earned nothing	
-src/characters/god.lua:66		but you need 	
-src/characters/god.lua:71		gold ¤	
+src/characters/cool_fish.lua:2		Cool Fish	Poisson stylé
+src/characters/cool_fish.lua:34		Level 2	Niveau 2
+src/characters/cool_fish.lua:35 (+3 others)		level up	niveau supérieur
+src/characters/cool_fish.lua:42		Level 3	Niveau 3
+src/characters/cool_fish.lua:43		level up more	niveau supérieur supérieur
+src/characters/cool_fish.lua:66	dialogue	Oh, this jacket?\nIt was 3000¥	Oh, ma veste?\nC’était 3000¥
+src/characters/cool_fish.lua:67	dialogue	It's from Japan yeah	Ouais, elle vient du Japon
+src/characters/dog.lua:2		Dog	Chien
+src/characters/dog.lua:34		Fancy Fancy	Fantaisiste
+src/characters/god.lua:11	dialogue	unworthy	indigne
+src/characters/god.lua:15	dialogue	fall back	retombe
+src/characters/god.lua:31	dialogue	begone	disparais
+src/characters/god.lua:36 (+1 others)		soul	âme
+src/characters/god.lua:37		wager your soul	pariez votre âme
+src/characters/god.lua:43	dialogue	i hope you are feeling lucky	j’espère que t’es en veine
+src/characters/god.lua:52 (+2 others)		gold	or
+src/characters/god.lua:62		but you have nothing left	mais vous n’avez plus rien
+src/characters/god.lua:64		but you have earned nothing	mais vous n’avez rien gagné
+src/characters/god.lua:66		but you need 	mais vous avez besoin de
+src/characters/god.lua:71		gold ¤	or ¤
 src/characters/god.lua:72		wager all 	
 src/characters/god.lua:72		wager 	
 src/characters/god.lua:72		and 	
